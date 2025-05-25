@@ -1,3 +1,3 @@
 function showAlert(){
-        alert("Thanks for visiting Skill Station!");
+        alert("Thanks for visiting Skill Station Academy!");
       }
